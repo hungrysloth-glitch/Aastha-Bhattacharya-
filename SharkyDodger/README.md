@@ -34,6 +34,9 @@ pip install pygame
 ### 3. Clone the repository
 ```bash
 git clone https://github.com/hungrysloth-glitch/Aastha-Bhattacharya-.git
+cd Aastha-Bhattacharya-/SharkyDodger
+pip install -r requirements.txt
+python main.py
 ```
 Then open the project folder in VS Code.
 
