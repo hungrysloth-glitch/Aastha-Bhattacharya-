@@ -33,7 +33,7 @@ pip install pygame
 
 ### 3. Clone the repository
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/hungrysloth-glitch/Aastha-Bhattacharya-.git
 ```
 Then open the project folder in VS Code.
 
@@ -44,7 +44,7 @@ The game uses custom image assets, so make sure `blobby.PNG`, `sharky.png`, and 
 From the project folder:
 
 ```bash
-python maingame.py
+python main.py
 ```
 
 ## Current Features
