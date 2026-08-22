@@ -3,13 +3,13 @@ import random
 
 def sprites():
 
-    player_image = pygame.image.load(r"C:\Users\Utsha\Desktop\temp\blobby.PNG").convert_alpha()
+    player_image = pygame.image.load("blobby.PNG").convert_alpha()
     player_image = pygame.transform.scale(player_image, (75, 75))
 
-    sharky_image = pygame.image.load(r"C:\Users\Utsha\Desktop\temp\sharky.png").convert_alpha()
+    sharky_image = pygame.image.load("sharky.png").convert_alpha()
     sharky_image = pygame.transform.scale(sharky_image,(90, 90))
 
-    background_image = pygame.image.load(r"C:\Users\Utsha\Desktop\temp\background.PNG").convert()
+    background_image = pygame.image.load("background.PNG").convert()
     background_image = pygame.transform.scale(background_image,(720, 1280))
 
     return player_image, sharky_image, background_image
