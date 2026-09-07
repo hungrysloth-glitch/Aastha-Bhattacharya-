@@ -1,7 +1,7 @@
 # Aastha-Bhattacharya-
 (repository created to complete the task assigned by the tech team of AI club)
 
-## Hey, I'm Aastha! (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
+## Hey, I'm Aastha!
 
 I'm a second year student from the AIML branch with an interest in python programming, AI/ML, software development, and game development.
 I'm also very fond of digital design, as I have used Canva, Figma, Adobe Photoshop, Procreate and Ibis paint to create customized UI elements, posters, and PPTs before.
